@@ -1,5 +1,3 @@
-nes (4 sloc)  58 Bytes
-   
 server:
   port: 8081
 some: 
